@@ -1,0 +1,80 @@
+//generated with http://geojson.io
+// Example geoJSON for try functionality
+{  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.005455017089844,
+            53.71972022551003
+          ],
+          [
+            10.011377334594727,
+            53.71860285074401
+          ],
+          [
+            10.008716583251953,
+            53.71352350039153
+          ],
+          [
+            10.008029937744139,
+            53.70844353666409
+          ],
+          [
+            9.999189376831055,
+            53.70966278390033
+          ],
+          [
+            9.999618530273438,
+            53.71448862415666
+          ],
+          [
+            9.998760223388672,
+            53.718806012000385
+          ],
+          [
+            10.00579833984375,
+            53.719872592496316
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.001506805419922,
+          53.716723562600286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.007600784301758,
+          53.71596166510783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.004081726074219,
+          53.71423464636526
+        ]
+      }
+    }
+  ]
+}
