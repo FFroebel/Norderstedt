@@ -1,5 +1,6 @@
 # SnackandHack
 Smart Country Hackathon
+![alt text](https://github.com/RikeOne/Norderstedt/blob/master/lutze%20logo.png)
 
 ## Challenge 3: Auf dem Weg zu Schule
 
